@@ -6,6 +6,5 @@
   <project name="TWRP-THEA/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" revision="cm-13.0" remote="github" />
   <project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" revision="cm-13.0" remote="github" />
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" revision="cm-13.0" remote="github" />
-  <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" revision="cm-13.0"  remote="github" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
 </manifest>
