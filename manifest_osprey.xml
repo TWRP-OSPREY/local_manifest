@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="CyanogenMod/android_bootable_recovery" />
+  <project name="TWRP-OSPREY/android_bootable_recovery" path="bootable/recovery" remote="github" revision="cm-13.0"/>
+  <project name="TWRP-OSPREY/android_device_motorola_osprey" path="device/motorola/osprey" revision="cm-13.0" remote="github" />
+  <project name="TWRP-OSPREY/android_device_motorola_msm8916-common" path="device/motorola/msm8916-common" revision="cm-13.0" remote="github" />
+  <project name="TWRP-OSPREY/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" revision="cm-13.0" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" revision="cm-13.0" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" revision="cm-13.0" remote="github" /> 
+  <project name="CyanogenMod/android_external_bson" path="external/bson" remote="github"/>
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github"/>
+</manifest>
